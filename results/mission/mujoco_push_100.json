@@ -1,0 +1,21 @@
+{
+ "F": 100.0,
+ "direction": [
+  -0.0003318113840190373,
+  0.9999999449506012,
+  0.0
+ ],
+ "Kp": 6000.0,
+ "predicted_mm": 16.666666666666668,
+ "girder_mm_hold": 14.195312549155279,
+ "compliant_mm_hold": 16.664163150473925,
+ "girder_mm_max": 14.324152026239474,
+ "girder_mm_end": 2.6106357098613175,
+ "girder_off_axis_mm_max": 1.169173961558855,
+ "h_measured_hold": 99.99999999999996,
+ "sat_max_push": 0.4423543858565296,
+ "sat_max_ref": 0.3525888784395282,
+ "cop_min_push_mm": -Infinity,
+ "cop_min_ref_mm": -Infinity,
+ "modes_equal": true
+}

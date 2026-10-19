@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this research code or data."
+title: "External and Internal Impedance for Robot Teams Sharing a Load: Exact Decoupling and Decay Certificates"
+type: software
+version: 1.0.0
+authors:
+  - family-names: "Heydari Shahna"
+    given-names: "Mehdi"
+    affiliation: "Tampere University"
+repository-code: "https://github.com/Mehdi-Heydari-Shahna/Team-Impedance-Control"

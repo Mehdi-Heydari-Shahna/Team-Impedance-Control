@@ -1,0 +1,24 @@
+{
+ "dims": {
+  "n": 158,
+  "d": 62,
+  "m": 128,
+  "rows": 96,
+  "nI": 42
+ },
+ "repetitions": 3,
+ "steps_per_repetition": 300,
+ "control_step_ms_median": 9.004085999549716,
+ "control_step_ms_range": [
+  8.643174500321038,
+  9.225912000147218
+ ],
+ "plant_ms_median": 5.962093499874754,
+ "qp_ms_median": 3.4351674999015813,
+ "qp_ms_range": [
+  3.2599634996586246,
+  3.47459800013894
+ ],
+ "qp_calls_per_repetition": 30,
+ "threads": "1"
+}

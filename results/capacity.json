@@ -1,0 +1,290 @@
+{
+ "4_100.0": {
+  "double": 0.35946229550063435,
+  "single": 0.5056237644055273,
+  "double_noint": 0.46158596938425944,
+  "single_noint": Infinity
+ },
+ "4_120.0": {
+  "double": 0.4239536193168192,
+  "single": 0.534309918436248,
+  "double_noint": 0.5186164531039594,
+  "single_noint": Infinity
+ },
+ "4_140.0": {
+  "double": 0.48844494313868836,
+  "single": 0.5787498367596481,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_160.0": {
+  "double": 0.5529362669562943,
+  "single": 0.6450440910214184,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_183.0": {
+  "double": 0.6274611570773588,
+  "single": 0.7213291554165835,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_200.0": {
+  "double": 0.6831836561776793,
+  "single": 0.7776603339209487,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_100.0": {
+  "double": 0.5166149952700039,
+  "single": 0.6816904408495361,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_120.0": {
+  "double": 0.6137065168189793,
+  "single": 0.7821139194462035,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_140.0": {
+  "double": 0.7158942419764003,
+  "single": 0.8863030633136759,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_160.0": {
+  "double": 0.8336700268910402,
+  "single": 0.9908518818562584,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_183.0": {
+  "double": 0.9742109566332147,
+  "single": 1.1112972869710802,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_200.0": {
+  "double": 1.0781132311620922,
+  "single": 1.2004977744396683,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_100.0": {
+  "double": 0.6825330213559846,
+  "single": 0.8140522041984658,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_120.0": {
+  "double": 0.81364548522978,
+  "single": 0.9385083064009677,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_140.0": {
+  "double": 0.9447579491035756,
+  "single": 1.0628700955507497,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_160.0": {
+  "double": 1.075870412977371,
+  "single": 1.1873492619827175,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_183.0": {
+  "double": 1.2266733740702307,
+  "single": 1.3329657789725502,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_200.0": {
+  "double": 1.3463616258064617,
+  "single": 1.4405953784859094,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_220.0": {
+  "double": 0.748739897232829,
+  "single": 0.8440634717757689,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_240.0": {
+  "double": 0.814296332838446,
+  "single": 0.9104666096334313,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_260.0": {
+  "double": 0.8798527684440623,
+  "single": 0.9768697474882515,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_280.0": {
+  "double": 0.9454092040496795,
+  "single": 1.0432728853544404,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_183.36": {
+  "double": 0.6286411629406595,
+  "single": 0.7225201709914586,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_183.36": {
+  "double": 0.9764112400944214,
+  "single": 1.1131862384686997,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_183.36": {
+  "double": 1.229048580040626,
+  "single": 1.3352449940200017,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_60.0": {
+  "double": 0.24311256240991952,
+  "single": 0.46517655360247545,
+  "double_noint": 0.34778273717819275,
+  "single_noint": Infinity
+ },
+ "4_80.0": {
+  "double": 0.2989695443062601,
+  "single": 0.48276288883519136,
+  "double_noint": 0.40468435327909447,
+  "single_noint": Infinity
+ },
+ "4_180.0": {
+  "double": 0.6176521694204696,
+  "single": 0.7113878363924186,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_300.0": {
+  "double": 1.0109656396552966,
+  "single": 1.1096760232135239,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_60.0": {
+  "double": 0.3379307504374651,
+  "single": 0.543393716603191,
+  "double_noint": 0.41605609180521697,
+  "single_noint": Infinity
+ },
+ "3_80.0": {
+  "double": 0.4212158877014302,
+  "single": 0.5974515405725356,
+  "double_noint": 0.5245474294085284,
+  "single_noint": Infinity
+ },
+ "3_180.0": {
+  "double": 0.9558752611241061,
+  "single": 1.095556024475286,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_220.0": {
+  "double": 1.2003512011915518,
+  "single": 1.3063681159479756,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_240.0": {
+  "double": 1.322649839862322,
+  "single": 1.4124040917835146,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_260.0": {
+  "double": 1.4450063963948878,
+  "single": 1.5184763958160374,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_280.0": {
+  "double": 1.5673629529331379,
+  "single": 1.6246284437258396,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "3_300.0": {
+  "double": 1.689719509471388,
+  "single": 1.7307804916356417,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_60.0": {
+  "double": 0.4233886278520037,
+  "single": 0.5651399997934669,
+  "double_noint": 0.5182627000905882,
+  "single_noint": Infinity
+ },
+ "2_80.0": {
+  "double": 0.5523711029396337,
+  "single": 0.6895961019959665,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_180.0": {
+  "double": 1.2069828768511661,
+  "single": 1.3139723202343134,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_220.0": {
+  "double": 1.488401339097248,
+  "single": 1.575685895836898,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_240.0": {
+  "double": 1.630441052390097,
+  "single": 1.7101304214548918,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_260.0": {
+  "double": 1.772483776872491,
+  "single": 1.8445864210931973,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_280.0": {
+  "double": 1.9145266572635933,
+  "single": 1.9790595044355541,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "2_300.0": {
+  "double": 2.056569537663222,
+  "single": 2.113532587777911,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ },
+ "4_63.07": {
+  "double": 0.25168660913408303,
+  "single": 0.4671535925893977,
+  "double_noint": 0.35651713524913475,
+  "single_noint": Infinity
+ },
+ "3_63.07": {
+  "double": 0.3503287215778528,
+  "single": 0.5476134839398128,
+  "double_noint": 0.42830192669072176,
+  "single_noint": Infinity
+ },
+ "2_63.07": {
+  "double": 0.443187437777955,
+  "single": 0.5842440114815494,
+  "double_noint": Infinity,
+  "single_noint": Infinity
+ }
+}

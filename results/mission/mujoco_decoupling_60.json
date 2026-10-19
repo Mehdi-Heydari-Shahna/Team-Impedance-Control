@@ -1,0 +1,39 @@
+{
+ "amp": 60.0,
+ "frac_normal": 0.9999999998698709,
+ "T": 3.9980000000042395,
+ "max_dp_mm": 6.462941476333803,
+ "max_dtheta_deg": 0.7542103744382144,
+ "max_dq_joint_rad": 0.2007674799773078,
+ "max_dpalm_N": 156.7756354892626,
+ "max_dlamI_N": 275.2969154382612,
+ "sat_max_nominal": 0.36152858286451134,
+ "sat_max_psi": 0.6117057405547988,
+ "modes_equal": true,
+ "girder_travel_mm": 7.542244394581427,
+ "t_first_saturation": null,
+ "actuator_first_saturation": null,
+ "max_dp_mm_before_saturation": 6.462941476333803,
+ "max_dq_before_saturation": 0.2007674799773078,
+ "max_dpalm_before_saturation": 156.7756354892626,
+ "max_dlamI_before_saturation": 275.2969154382612,
+ "min_cop_margin_psi_mm": -Infinity,
+ "min_cop_margin_nominal_mm": -Infinity,
+ "min_cop_margin_psi_at": "grasp1l",
+ "t_first_cop_edge": 0.05999999999996675,
+ "cop_edge_connections": [
+  "grasp0r",
+  "grasp1l",
+  "grasp2r",
+  "grasp3l"
+ ],
+ "time_at_cop_edge_s": 3.045999999998312,
+ "max_dpalm_avg10ms_N": 96.96887979610854,
+ "time_at_cop_edge_10ms_s": 9.728000000011889,
+ "cop_edge_10ms_connections": [
+  "grasp0r",
+  "grasp1l",
+  "grasp2r",
+  "grasp3l"
+ ]
+}
